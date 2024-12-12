@@ -1,6 +1,6 @@
-# Intel® HealthAI - Personal Health Companion
+# Personal Health Companion
 
-Intel® HealthAI is a real-time biometric monitoring and mental health analysis application leveraging artificial intelligence. This project is built with Streamlit and includes three primary functionalities:
+Real-time biometric monitoring and mental health analysis application leveraging artificial intelligence. This project is built with Streamlit and includes three primary functionalities:
 
 1. **Simulated Biometric Monitoring**
 2. **Mental Health Sentiment Analysis**
